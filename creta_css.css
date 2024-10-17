@@ -1,0 +1,41 @@
+h1{
+	background-color:#0B6F0E;
+	color:#F3F2DA;
+}
+
+p{
+	#font-weight:bold;
+}
+
+body{
+	background-image:url(texture.jpg);
+	#font-weight:bold;
+	text-align:center;
+}
+
+div {
+	width:1000px;
+	margin: auto;
+	background-color:#F3F2DA;
+}
+
+table {
+	margin:auto;
+	width:50%;
+	border:1px solid #F3F2DA;
+	background-color:#ddc8bc;
+	border-radius: 10px;
+}
+
+th {
+	border:1px solid #ddc8bc;
+	background-color:#0B6F0E;
+	color:#F3F2DA;
+	border-radius: 10px;
+}
+
+td {
+	#border:1px solid black;
+	background-color:#F3F2DA;
+	border-radius: 10px;
+}
